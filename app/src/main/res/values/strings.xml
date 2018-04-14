@@ -1,0 +1,31 @@
+<resources>
+<!-- Layout -->
+    <!-- activity_main.xml -->
+    <string name="app_name">IVES</string>
+    <string name="app_full_name">IoT Vulnerabilities Evaluation System</string>
+    <string name="scanBttn">scan</string>
+    <string name="version">Version : Alpha</string>
+    <!-- activity_loading.xml -->
+    <string name="scanning">Scanning</string>
+    <!-- activity_hostlist.xml -->
+
+    <!-- activity_host_detail.xml -->
+    <string name="info">\u003f</string>
+
+<!-- Class -->
+    <!-- HostDetailActivity -->
+    <string name="sshOpen">SSH Port : open</string>
+    <string name="sshClose">SSH Port : close</string>
+    <string name="telnetOpen">Telnet Port : open</string>
+    <string name="telnetClose">Telnet Port : close</string>
+    <string name="pwdFound">Default credentials found : </string>
+
+    <string name="whatsSSH">What is SSH?</string>
+    <string name="sshText">\tSSH, also known as Secure Socket Shell,
+        is a network protocol that provides administrators with a
+        secure way to access a remote computer. SSH is widely used
+        by network administrators for managing systems and applications
+        remotely, allowing them to log in to another computer over
+        a network, execute commands and move files from one computer
+        to another.</string>
+</resources>
